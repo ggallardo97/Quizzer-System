@@ -46,5 +46,5 @@ With the teacher account you can:
 
 With the student account (you can create one through the register page) you can:
 - get all available test
-- take tests and get its scores (you have only one try)
+- take tests and get your scores (you have only one try)
 
