@@ -9,6 +9,7 @@ Its interface is very simple because I focused only on the backend code.
 - HTML
 - CSS / Bootstrap
 - JavaScript / JQuery
+- Ajax
 - WAPP
 
 ## Installation
