@@ -17,9 +17,6 @@ First of all, you need to have installed PHP and Apache server (such as WAPP or 
 ```bash
   git clone Quizzer-System
   cd Quizzer-System
-  php spark db:create yourdbname
-  php spark migrate
-  php spark db:seed UserSeeder
 ```
 
 Second step, modify the .env file with the db connection data:
