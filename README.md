@@ -16,7 +16,7 @@ Its interface is very simple because I focused only on the backend code.
 
 First of all, you need to have installed PHP and Apache server (such as WAPP or XAMPP), then clone this repo. Here are some commands that will help you:
 ```bash
-  git clone Quizzer-System
+  git clone https://github.com/ggallardo97/Quizzer-System
   cd Quizzer-System
 ```
 
